@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7B0F48-B309-491E-B1AC-31BA8F959AE2}|Inventory System.API.csproj|c:\\users\\afc\\desktop\\task_inventory system\\inventory system.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A7B0F48-B309-491E-B1AC-31BA8F959AE2}|Inventory System.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7B0F48-B309-491E-B1AC-31BA8F959AE2}|Inventory System.API.csproj|c:\\users\\afc\\desktop\\task_inventory system\\inventory system.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7B0F48-B309-491E-B1AC-31BA8F959AE2}|Inventory System.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7B0F48-B309-491E-B1AC-31BA8F959AE2}|Inventory System.API.csproj|c:\\users\\afc\\desktop\\task_inventory system\\inventory system.api\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7B0F48-B309-491E-B1AC-31BA8F959AE2}|Inventory System.API.csproj|solutionrelative:controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7B0F48-B309-491E-B1AC-31BA8F959AE2}|Inventory System.API.csproj|c:\\users\\afc\\desktop\\task_inventory system\\inventory system.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7B0F48-B309-491E-B1AC-31BA8F959AE2}|Inventory System.API.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E9A649-55F1-4346-9A49-BE6F79D56A90}|..\\Inventory System.service\\Inventory System.service.csproj|c:\\users\\afc\\desktop\\task_inventory system\\inventory system.service\\implementations\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E9A649-55F1-4346-9A49-BE6F79D56A90}|..\\Inventory System.service\\Inventory System.service.csproj|c:\\users\\afc\\desktop\\task_inventory system\\inventory system.service\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E9A649-55F1-4346-9A49-BE6F79D56A90}|..\\Inventory System.service\\Inventory System.service.csproj|c:\\users\\afc\\desktop\\task_inventory system\\inventory system.service\\abstracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4F6446-2445-4EC8-BE50-9D6908C6B8A2}|..\\Inventory System.repository\\Inventory System.repository.csproj|c:\\users\\afc\\desktop\\task_inventory system\\inventory system.repository\\implementation\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E9A649-55F1-4346-9A49-BE6F79D56A90}|..\\Inventory System.service\\Inventory System.service.csproj|c:\\users\\afc\\desktop\\task_inventory system\\inventory system.service\\abstracts\\isaleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E9A649-55F1-4346-9A49-BE6F79D56A90}|..\\Inventory System.service\\Inventory System.service.csproj|c:\\users\\afc\\desktop\\task_inventory system\\inventory system.service\\inventory system.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E9A649-55F1-4346-9A49-BE6F79D56A90}|..\\Inventory System.service\\Inventory System.service.csproj|c:\\users\\afc\\desktop\\task_inventory system\\inventory system.service\\dtos\\saledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E9A649-55F1-4346-9A49-BE6F79D56A90}|..\\Inventory System.service\\Inventory System.service.csproj|c:\\users\\afc\\desktop\\task_inventory system\\inventory system.service\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E9A649-55F1-4346-9A49-BE6F79D56A90}|..\\Inventory System.service\\Inventory System.service.csproj|c:\\users\\afc\\desktop\\task_inventory system\\inventory system.service\\dtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4F6446-2445-4EC8-BE50-9D6908C6B8A2}|..\\Inventory System.repository\\Inventory System.repository.csproj|c:\\users\\afc\\desktop\\task_inventory system\\inventory system.repository\\implementation\\salerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4F6446-2445-4EC8-BE50-9D6908C6B8A2}|..\\Inventory System.repository\\Inventory System.repository.csproj|c:\\users\\afc\\desktop\\task_inventory system\\inventory system.repository\\abstracts\\isalerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4F6446-2445-4EC8-BE50-9D6908C6B8A2}|..\\Inventory System.repository\\Inventory System.repository.csproj|c:\\users\\afc\\desktop\\task_inventory system\\inventory system.repository\\abstracts\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4F6446-2445-4EC8-BE50-9D6908C6B8A2}|..\\Inventory System.repository\\Inventory System.repository.csproj|c:\\users\\afc\\desktop\\task_inventory system\\inventory system.repository\\inventory system.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-26T02:54:47.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.API\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.API\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "Controllers\\SalesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:49:12.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:48:20.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaleService.cs",
+              "DocumentMoniker": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.service\\Implementations\\SaleService.cs",
+              "RelativeDocumentMoniker": "..\\Inventory System.service\\Implementations\\SaleService.cs",
+              "ToolTip": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.service\\Implementations\\SaleService.cs",
+              "RelativeToolTip": "..\\Inventory System.service\\Implementations\\SaleService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:36:30.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.service\\Implementations\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\Inventory System.service\\Implementations\\ProductService.cs",
+              "ToolTip": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.service\\Implementations\\ProductService.cs",
+              "RelativeToolTip": "..\\Inventory System.service\\Implementations\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:35:41.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.service\\Abstracts\\IProductService.cs",
+              "RelativeDocumentMoniker": "..\\Inventory System.service\\Abstracts\\IProductService.cs",
+              "ToolTip": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.service\\Abstracts\\IProductService.cs",
+              "RelativeToolTip": "..\\Inventory System.service\\Abstracts\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:34:06.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwDwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:08:07.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISaleService.cs",
+              "DocumentMoniker": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.service\\Abstracts\\ISaleService.cs",
+              "RelativeDocumentMoniker": "..\\Inventory System.service\\Abstracts\\ISaleService.cs",
+              "ToolTip": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.service\\Abstracts\\ISaleService.cs",
+              "RelativeToolTip": "..\\Inventory System.service\\Abstracts\\ISaleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:34:52.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SaleDto.cs",
+              "DocumentMoniker": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.service\\DTOs\\SaleDto.cs",
+              "RelativeDocumentMoniker": "..\\Inventory System.service\\DTOs\\SaleDto.cs",
+              "ToolTip": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.service\\DTOs\\SaleDto.cs",
+              "RelativeToolTip": "..\\Inventory System.service\\DTOs\\SaleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:31:57.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.repository\\Implementation\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\Inventory System.repository\\Implementation\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.repository\\Implementation\\ProductRepository.cs",
+              "RelativeToolTip": "..\\Inventory System.repository\\Implementation\\ProductRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:25:12.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.service\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "..\\Inventory System.service\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.service\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "..\\Inventory System.service\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:31:11.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.service\\DTOs\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "..\\Inventory System.service\\DTOs\\CreateProductDto.cs",
+              "ToolTip": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.service\\DTOs\\CreateProductDto.cs",
+              "RelativeToolTip": "..\\Inventory System.service\\DTOs\\CreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:29:57.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Inventory System.service",
+              "DocumentMoniker": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.service\\Inventory System.service.csproj",
+              "RelativeDocumentMoniker": "..\\Inventory System.service\\Inventory System.service.csproj",
+              "ToolTip": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.service\\Inventory System.service.csproj",
+              "RelativeToolTip": "..\\Inventory System.service\\Inventory System.service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-26T02:28:29.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SaleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.repository\\Implementation\\SaleRepository.cs",
+              "RelativeDocumentMoniker": "..\\Inventory System.repository\\Implementation\\SaleRepository.cs",
+              "ToolTip": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.repository\\Implementation\\SaleRepository.cs",
+              "RelativeToolTip": "..\\Inventory System.repository\\Implementation\\SaleRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:26:47.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ISaleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.repository\\Abstracts\\ISaleRepository.cs",
+              "RelativeDocumentMoniker": "..\\Inventory System.repository\\Abstracts\\ISaleRepository.cs",
+              "ToolTip": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.repository\\Abstracts\\ISaleRepository.cs",
+              "RelativeToolTip": "..\\Inventory System.repository\\Abstracts\\ISaleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:24:22.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.repository\\Abstracts\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\Inventory System.repository\\Abstracts\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.repository\\Abstracts\\IProductRepository.cs",
+              "RelativeToolTip": "..\\Inventory System.repository\\Abstracts\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T02:23:24.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Inventory System.repository",
+              "DocumentMoniker": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.repository\\Inventory System.repository.csproj",
+              "RelativeDocumentMoniker": "..\\Inventory System.repository\\Inventory System.repository.csproj",
+              "ToolTip": "C:\\Users\\AFC\\Desktop\\task_Inventory System\\Inventory System.repository\\Inventory System.repository.csproj",
+              "RelativeToolTip": "..\\Inventory System.repository\\Inventory System.repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-26T02:21:28.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

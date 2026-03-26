@@ -1,0 +1,16 @@
+C:\Users\AFC\Desktop\task_Inventory System\Inventory System.repository\bin\Debug\net9.0\Inventory System.repository.deps.json
+C:\Users\AFC\Desktop\task_Inventory System\Inventory System.repository\bin\Debug\net9.0\Inventory System.repository.dll
+C:\Users\AFC\Desktop\task_Inventory System\Inventory System.repository\bin\Debug\net9.0\Inventory System.repository.pdb
+C:\Users\AFC\Desktop\task_Inventory System\Inventory System.repository\bin\Debug\net9.0\Inventory System.data.dll
+C:\Users\AFC\Desktop\task_Inventory System\Inventory System.repository\bin\Debug\net9.0\Inventory System.data.pdb
+C:\Users\AFC\Desktop\task_Inventory System\Inventory System.repository\obj\Debug\net9.0\Inventory System.repository.csproj.AssemblyReference.cache
+C:\Users\AFC\Desktop\task_Inventory System\Inventory System.repository\obj\Debug\net9.0\Inventory System.repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AFC\Desktop\task_Inventory System\Inventory System.repository\obj\Debug\net9.0\Inventory System.repository.AssemblyInfoInputs.cache
+C:\Users\AFC\Desktop\task_Inventory System\Inventory System.repository\obj\Debug\net9.0\Inventory System.repository.AssemblyInfo.cs
+C:\Users\AFC\Desktop\task_Inventory System\Inventory System.repository\obj\Debug\net9.0\Inventory System.repository.csproj.CoreCompileInputs.cache
+C:\Users\AFC\Desktop\task_Inventory System\Inventory System.repository\obj\Debug\net9.0\Inventory System.repository.sourcelink.json
+C:\Users\AFC\Desktop\task_Inventory System\Inventory System.repository\obj\Debug\net9.0\Inventor.6A148AC4.Up2Date
+C:\Users\AFC\Desktop\task_Inventory System\Inventory System.repository\obj\Debug\net9.0\Inventory System.repository.dll
+C:\Users\AFC\Desktop\task_Inventory System\Inventory System.repository\obj\Debug\net9.0\refint\Inventory System.repository.dll
+C:\Users\AFC\Desktop\task_Inventory System\Inventory System.repository\obj\Debug\net9.0\Inventory System.repository.pdb
+C:\Users\AFC\Desktop\task_Inventory System\Inventory System.repository\obj\Debug\net9.0\ref\Inventory System.repository.dll
